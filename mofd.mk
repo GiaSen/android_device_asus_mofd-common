@@ -82,8 +82,8 @@ PRODUCT_COPY_FILES += \
     device/asus/mofd-common/powervr.ini:system/etc/powervr.ini
 
 # Doze
-PRODUCT_PACKAGES += \
-   ZenfoneDoze
+# PRODUCT_PACKAGES += \
+#   ZenfoneDoze
 
 # Factory reset protection
 ADDITIONAL_DEFAULT_PROPERTIES += \
